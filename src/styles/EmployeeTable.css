@@ -1,0 +1,15 @@
+/* src/components/EmployeeTable.css */
+.employee-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.employee-table th, .employee-table td {
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+}
+
+.employee-table th {
+    background-color: #f4f4f4;
+}

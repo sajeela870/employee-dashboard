@@ -1,0 +1,19 @@
+/* src/components/Navbar.css */
+.navbar {
+    background-color: #511313;
+    color: white;
+    padding: 11px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links a {
+    color: white;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
